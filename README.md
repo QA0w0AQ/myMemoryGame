@@ -12,6 +12,7 @@ This project is about memory game, you can though compare with different two car
 
 It shows how many steps do you have to play this game.
 
+![reset](https://github.com/QA0w0AQ/myMemoryGame/blob/master/img/reset.PNG?raw=true)
 Certainly, if you want to fresh this game, you can use this bottom.
 # How To Play
 1. Pick anyone card and remember it in your mind.
