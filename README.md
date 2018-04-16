@@ -17,6 +17,9 @@ It shows how many steps do you have to play this game.
 Certainly, if you want to fresh this game, you can use this bottom.
 # How To Play
 1. Pick anyone card and remember it in your mind.
+
+![FirstCard](https://github.com/QA0w0AQ/myMemoryGame/blob/master/img/FirstCard.PNG?raw=true)
+
 2. Pick another one card to compare with your first card, if they are matched, they will keep open; if not, they will close. 
 3. Use the same way to find the rest of cards.
 4. Enjoy my game!
