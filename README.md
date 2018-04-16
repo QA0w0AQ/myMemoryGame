@@ -9,6 +9,7 @@ This project is about memory game, you can though compare with different two car
 
 # Parts of My Game
 ![Moves](https://github.com/QA0w0AQ/myMemoryGame/blob/master/img/moving.PNG?raw=true)
+
 It shows how many steps do you have to play this game.
 
 Certainly, if you want to fresh this game, you can use this bottom.
