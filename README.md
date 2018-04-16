@@ -21,7 +21,11 @@ Certainly, if you want to fresh this game, you can use this bottom.
 ![FirstCard](https://github.com/QA0w0AQ/myMemoryGame/blob/master/img/FirstCard.PNG?raw=true)
 
 2. Pick another one card to compare with your first card, if they are matched, they will keep open; if not, they will close. 
+
+![SecondCard](https://github.com/QA0w0AQ/myMemoryGame/blob/master/img/SecondCard.PNG?raw=true)
+
 3. Use the same way to find the rest of cards.
+
 4. Enjoy my game!
 
 # Issues
