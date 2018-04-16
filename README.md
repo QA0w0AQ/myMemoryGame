@@ -3,6 +3,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+![Img](https://github.com/QA0w0AQ/myMemoryGame/blob/master/img/Capture.PNG?raw=true)
+
 This project is about memory game, you can though compare with different two cards to match them and win victory!
 
 # Parts of My Game
